@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#121212"/>
+  <rect x="40" y="40" width="1120" height="820" rx="48" fill="url(#bg)"/>
+  <ellipse cx="600" cy="740" rx="280" ry="78" fill="#000000" fill-opacity="0.35"/>
+  <path d="M396 635L779 536C834 522 882 576 860 628C848 656 824 678 795 692L550 812C490 841 423 796 423 731V670C423 654 413 641 396 635Z" fill="#FFC94D"/>
+  <circle cx="694" cy="625" r="26" fill="#F3AD00"/>
+  <circle cx="748" cy="688" r="18" fill="#F3AD00"/>
+  <circle cx="610" cy="716" r="22" fill="#F3AD00"/>
+  <text x="600" y="164" fill="#FFC107" font-family="Arial, sans-serif" font-size="80" font-weight="700" text-anchor="middle">Extra Cheese</text>
+  <text x="600" y="240" fill="#FFFFFF" fill-opacity="0.72" font-family="Arial, sans-serif" font-size="36" text-anchor="middle">That melty finish customers ask for</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1080" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#352100"/>
+      <stop offset="1" stop-color="#0E0E0E"/>
+    </linearGradient>
+  </defs>
+</svg>

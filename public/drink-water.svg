@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#121212"/>
+  <rect x="40" y="40" width="1120" height="820" rx="48" fill="url(#bg)"/>
+  <ellipse cx="600" cy="760" rx="180" ry="48" fill="#000000" fill-opacity="0.35"/>
+  <rect x="548" y="204" width="104" height="84" rx="24" fill="#8ED1FF"/>
+  <rect x="518" y="268" width="164" height="436" rx="70" fill="#80D8FF"/>
+  <rect x="530" y="376" width="140" height="150" rx="16" fill="#0D47A1"/>
+  <text x="600" y="466" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle">WATER</text>
+  <text x="600" y="164" fill="#FFC107" font-family="Arial, sans-serif" font-size="80" font-weight="700" text-anchor="middle">Water</text>
+  <text x="600" y="240" fill="#FFFFFF" fill-opacity="0.72" font-family="Arial, sans-serif" font-size="36" text-anchor="middle">Simple and chilled</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1080" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071927"/>
+      <stop offset="1" stop-color="#0E0E0E"/>
+    </linearGradient>
+  </defs>
+</svg>

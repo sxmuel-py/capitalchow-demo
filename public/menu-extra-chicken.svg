@@ -1,0 +1,28 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="64" fill="#121212"/>
+  <rect x="40" y="40" width="1120" height="820" rx="48" fill="url(#bg)"/>
+  <ellipse cx="600" cy="740" rx="320" ry="80" fill="#000000" fill-opacity="0.35"/>
+  <g filter="url(#shadow)">
+    <path d="M366 500C422 376 594 319 744 381C866 431 893 557 815 634C746 702 617 736 503 697C380 654 322 598 366 500Z" fill="#A74D18"/>
+    <path d="M438 501C475 427 584 396 681 438C760 472 792 541 747 594C705 644 610 669 530 643C447 616 405 568 438 501Z" fill="#D27C2C"/>
+    <path d="M494 485C516 443 578 428 638 452C688 472 707 512 680 546C655 579 597 593 545 575C492 555 474 523 494 485Z" fill="#F0B35A"/>
+  </g>
+  <text x="600" y="164" fill="#FFC107" font-family="Arial, sans-serif" font-size="80" font-weight="700" text-anchor="middle">Extra Chicken</text>
+  <text x="600" y="240" fill="#FFFFFF" fill-opacity="0.72" font-family="Arial, sans-serif" font-size="36" text-anchor="middle">Add more grilled bite to your wrap</text>
+  <defs>
+    <linearGradient id="bg" x1="120" y1="120" x2="1080" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30120D"/>
+      <stop offset="1" stop-color="#0E0E0E"/>
+    </linearGradient>
+    <filter id="shadow" x="286" y="308" width="616" height="480" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="20"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.38 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+</svg>

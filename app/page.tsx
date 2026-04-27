@@ -101,9 +101,8 @@ const menuGroups: { title: string; subtitle: string; items: MenuItem[] }[] = [
         name: "Extra Cheese",
         description: "Add a melty cheese layer for a richer shawarma finish.",
         price: 800,
-        image:
-          "https://images.unsplash.com/photo-1743190667576-b079863978df?auto=format&fit=crop&w=1200&q=80",
-        imageAlt: "Cheese board with sliced cheese",
+        image: "/extra-cheese.jpg",
+        imageAlt: "Fresh cheese board with sliced cheese",
         category: "Add-ons"
       }
     ]
